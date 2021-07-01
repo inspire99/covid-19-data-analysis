@@ -3,9 +3,11 @@ exploratory data analysis of covid-19 data
 
 - currently doing eda in [kaggle notebook](https://www.kaggle.com/gansai/covid-19-jun-2021-eda)
 
-- done so far
-- read the data
-- viewed different columns information
+-🎍 done so far
 
-- todo
-- 1. spatial visualization of data
+1. read the data
+2. viewed different columns information
+
+- 🎐 todo
+- 
+1. spatial visualization of data
